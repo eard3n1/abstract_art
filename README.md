@@ -2,6 +2,7 @@
 
 <h1 style="color:#2c3e50;">abstract_art</h1>
 <p>A simple, yet interesting program that creates random abstract images.</p>
+<img src="example.png" alt="example" style="width:500px;height:500px;">
 
 <h2 style="color:#2c3e50;">Setup</h2>
 <ol>
